@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+div {
+  display: block;
+  unicode-bidi: isolate;
+  border: #646cffaa;
+}
+
+h3 {
+  color: rgb(142, 182, 218);
+  border: #646cff;
+  border: dashed;
+  margin-top: 35;
+}
+
+p{
+color: rgb(142, 182, 218);
+  border: #646cff;
+  border-bottom: dotted;
+}
